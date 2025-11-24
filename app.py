@@ -104,7 +104,7 @@ with tab1:
     - Evening charging significantly increases grid load.  
     """)
     st.subheader("Demo Video")
-    st.video("https://youtu.be/TdP2X5-MQ08")
+    st.video("https://youtu.be/rZpv_-SOb84")
 
 
 # ===================================================
